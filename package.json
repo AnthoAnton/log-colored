@@ -1,0 +1,25 @@
+{
+  "name": "log-colored",
+  "version": "0.1.0",
+  "description": "log with colors for your console",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthoAnton/log-colored.git"
+  },
+  "author": "AnthoAnton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthoAnton/log-colored/issues"
+  },
+  "homepage": "https://github.com/AnthoAnton/log-colored#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
