@@ -1,6 +1,6 @@
 {
   "name": "log-colored",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "log with colors for your console",
   "main": "index.js",
   "directories": {
