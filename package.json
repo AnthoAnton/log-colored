@@ -1,6 +1,6 @@
 {
   "name": "log-colored",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "log with colors for your console",
   "main": "index.js",
   "directories": {
@@ -21,5 +21,6 @@
   "homepage": "https://github.com/AnthoAnton/log-colored#readme",
   "dependencies": {
     "colors": "^1.4.0"
-  }
+  },
+  "keywords": ["colors","log", "console", "console.log"]
 }
