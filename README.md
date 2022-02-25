@@ -122,3 +122,6 @@ log_c.error("log error!".red);
 
 *log-colored uses as base colors which you can see on your web page ([github.com/Marak/colors.js](https://github.com/Marak/colors.js))* 
 Enjoy.
+
+## Donate
+[![Image](https://aurora-israel.co.il/wp-content/uploads/2019/03/6-2-paypal-donate-button-png-file-thumb.png)](https://www.paypal.com/paypalme/anthoanton)
